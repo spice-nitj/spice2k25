@@ -32,7 +32,7 @@ A modern, minimal, and responsive web application built using **Next.js**, **Typ
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/spice-website.git
+git clone https://github.com/spice-nitj/spice2k25.git
 cd spice-website
 
 # Install dependencies
@@ -40,6 +40,7 @@ npm install
 # or
 yarn install
 
+#Run App
 npm run dev
 # or
 yarn dev
