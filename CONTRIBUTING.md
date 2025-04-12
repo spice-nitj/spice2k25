@@ -16,7 +16,7 @@ Click the **Fork** button on the top right of the repo
 ### 2. **Clone Your Fork Locally**
 
 ```bash
-git clone https://github.com/your-username/spice-website.git
+git clone https://github.com/spice-nitj/spice2k25.git
 cd spice-website
 ```
 Create a New Branch
