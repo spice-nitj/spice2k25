@@ -1,6 +1,6 @@
-# 🌶️ Spice Website
+#  Spice Website
 
-A modern, minimal, and responsive web application built using **Next.js**, **TypeScript**, and **Tailwind CSS**. Designed for speed, scalability, and style. 
+A modern, minimal, and responsive web application built using **Next.js**, **TypeScript**, and **Tailwind CSS**. 
 ---
 
 ## 🚀 Tech Stack
