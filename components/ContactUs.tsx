@@ -80,8 +80,8 @@ export default function ContactUs() {
             </div>
             <h3 className="text-lg font-medium text-gray-900">Phone</h3>
             <p className="text-gray-600 mt-1">
-              +91 6283850822 <br />
-              Rashim
+              +91 7201050327 <br />
+              Ayush Kumar
             </p>
           </motion.div>
 
